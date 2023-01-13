@@ -107,7 +107,133 @@ Response:
                 "state_id": 24
             }],
             "winner_payer_id": 92
-        },.... ]        // 8 items for Round of 16
+        }, {
+            "schedule_date": "2022-09-06",
+            "schedule_time": "09:00",
+            "players": [{
+                "player_id": 90,
+                "kit_id": "GAAA005F18",
+                "player_name": "Santosh",
+                "color": "Red",
+                "points": 15,
+                "state_name": "Manipur",
+                "state_id": 24
+            }, {
+                "player_id": 92,
+                "kit_id": "GAAA005G09",
+                "player_name": "Rahul",
+                "color": "Blue",
+                "points": 14,
+                "state_name": "Manipur",
+                "state_id": 24
+            }],
+            "winner_payer_id": 92
+        }, {
+            "schedule_date": "2022-09-06",
+            "schedule_time": "09:00",
+            "players": [{
+                "player_id": 90,
+                "kit_id": "GAAA005F18",
+                "player_name": "Santosh",
+                "color": "Red",
+                "points": 15,
+                "state_name": "Manipur",
+                "state_id": 24
+            }, {
+                "player_id": 92,
+                "kit_id": "GAAA005G09",
+                "player_name": "Rahul",
+                "color": "Blue",
+                "points": 14,
+                "state_name": "Manipur",
+                "state_id": 24
+            }],
+            "winner_payer_id": 92
+        }, {
+            "schedule_date": "2022-09-06",
+            "schedule_time": "09:00",
+            "players": [{
+                "player_id": 90,
+                "kit_id": "GAAA005F18",
+                "player_name": "Santosh",
+                "color": "Red",
+                "points": 15,
+                "state_name": "Manipur",
+                "state_id": 24
+            }, {
+                "player_id": 92,
+                "kit_id": "GAAA005G09",
+                "player_name": "Rahul",
+                "color": "Blue",
+                "points": 14,
+                "state_name": "Manipur",
+                "state_id": 24
+            }],
+            "winner_payer_id": 92
+        }, {
+            "schedule_date": "2022-09-06",
+            "schedule_time": "09:00",
+            "players": [{
+                "player_id": 90,
+                "kit_id": "GAAA005F18",
+                "player_name": "Santosh",
+                "color": "Red",
+                "points": 15,
+                "state_name": "Manipur",
+                "state_id": 24
+            }, {
+                "player_id": 92,
+                "kit_id": "GAAA005G09",
+                "player_name": "Rahul",
+                "color": "Blue",
+                "points": 14,
+                "state_name": "Manipur",
+                "state_id": 24
+            }],
+            "winner_payer_id": 92
+        }, {
+            "schedule_date": "2022-09-06",
+            "schedule_time": "09:00",
+            "players": [{
+                "player_id": 90,
+                "kit_id": "GAAA005F18",
+                "player_name": "Santosh",
+                "color": "Red",
+                "points": 15,
+                "state_name": "Manipur",
+                "state_id": 24
+            }, {
+                "player_id": 92,
+                "kit_id": "GAAA005G09",
+                "player_name": "Rahul",
+                "color": "Blue",
+                "points": 14,
+                "state_name": "Manipur",
+                "state_id": 24
+            }],
+            "winner_payer_id": 92
+        }, {
+            "schedule_date": "2022-09-06",
+            "schedule_time": "09:00",
+            "players": [{
+                "player_id": 90,
+                "kit_id": "GAAA005F18",
+                "player_name": "Santosh",
+                "color": "Red",
+                "points": 15,
+                "state_name": "Manipur",
+                "state_id": 24
+            }, {
+                "player_id": 92,
+                "kit_id": "GAAA005G09",
+                "player_name": "Rahul",
+                "color": "Blue",
+                "points": 14,
+                "state_name": "Manipur",
+                "state_id": 24
+            }],
+            "winner_payer_id": 92
+        }]
     }, {
         "round_name": "Quarter Final",
         "results": [{
@@ -152,7 +278,49 @@ Response:
                 "state_id": 24
             }],
             "winner_payer_id": 21
-        },.... ]        // 4 items for Quarter Final
+        }, {
+            "schedule_date": "2022-09-06",
+            "schedule_time": "09:00",
+            "players": [{
+                "player_id": 102,
+                "kit_id": "GAAA005F32",
+                "player_name": "Rakesh",
+                "color": "Red",
+                "points": 15,
+                "state_name": "Manipur",
+                "state_id": 24
+            }, {
+                "player_id": 21,
+                "kit_id": "GAAA005F19",
+                "player_name": "Himmat",
+                "color": "Blue",
+                "points": 14,
+                "state_name": "Manipur",
+                "state_id": 24
+            }],
+            "winner_payer_id": 21
+        }, {
+            "schedule_date": "2022-09-06",
+            "schedule_time": "09:00",
+            "players": [{
+                "player_id": 102,
+                "kit_id": "GAAA005F32",
+                "player_name": "Rakesh",
+                "color": "Red",
+                "points": 15,
+                "state_name": "Manipur",
+                "state_id": 24
+            }, {
+                "player_id": 21,
+                "kit_id": "GAAA005F19",
+                "player_name": "Himmat",
+                "color": "Blue",
+                "points": 14,
+                "state_name": "Manipur",
+                "state_id": 24
+            }],
+            "winner_payer_id": 21
+        }]
     }, {
         "round_name": "Quarter Final",
         "results": [{
