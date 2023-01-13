@@ -24,7 +24,7 @@ Response:
     }]
 
 
-2. <b>Fetch game categories of a tournament:</b>
+2. <b>Fetch game fixtures of a tournament:</b>
 
 <b>GET</b> tournaments/1/fixtures
 
