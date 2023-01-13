@@ -1,9 +1,9 @@
 Sample APIs:
 
 
-1. Fetch list of tournaments:
+1. <b>Fetch list of tournaments:</b>
 
-GET tournaments
+<b>GET</b> tournaments
 
 Response:
 
@@ -24,9 +24,9 @@ Response:
     }]
 
 
-2. Fetch game categories of a tournament:
+2. <b>Fetch game categories of a tournament:</b>
 
-GET tournaments/1/fixtures
+<b>GET</b> tournaments/1/fixtures
 
 Response:
 
@@ -57,9 +57,9 @@ Response:
     }]
 
 
-3. Fetch results of a fixture:
+3. <b>Fetch results of a fixture:</b>
 
-GET fixtures/8/results
+<b>GET</b> fixtures/8/results
 
 Response:
 
